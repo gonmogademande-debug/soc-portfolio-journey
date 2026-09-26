@@ -1,0 +1,18 @@
+# Offensive Security Intro - TryHackMe
+
+## 📅 Date de completion
+Septembre 2025
+
+## 🎯 Ce que j'ai appris
+- Différence entre sécurité offensive et défensive.
+- Utilisation de Dirb pour trouver des pages cachées.
+- Exploitation d'une page d'administration non protégée.
+
+## 🛠️ Compétences acquises
+- Scanner un site web avec Dirb.
+- Identifier des pages sensibles.
+- Comprendre l'importance de l'authentification.
+
+## 💡 Ce que j'ai retenu
+- Une page cachée n'est pas forcément sécurisée.
+- L'authentification est la seule vraie protection.
