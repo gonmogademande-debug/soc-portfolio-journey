@@ -41,6 +41,6 @@ Devenir **Analyste SOC Niveau 1** (Blue Team).
 ## 📫 Me contacter
 - **Email** : gonmogademande@gmail.com
 - **GitHub** : [gonmogademande-debug](https://github.com/gonmogademande-debug)
-
+- [Rapport d'investigation PHP2Shell](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_php2shell.txt)
 ---
 *Dernière mise à jour : Octobre 2026*
