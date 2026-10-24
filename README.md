@@ -17,7 +17,7 @@ Devenir **Analyste SOC Niveau 1** (Blue Team).
 - OSINT, Threat Intelligence
 
 ## 📁 Projets
-
+- [Rapport d'investigation Splunk](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_splunk.txt)
 ### 🎯 Portfolio & Rapports
 - [Rapport de compétences](rapport-competences.md)
 - [Notes SOC Fundamentals](letsdefend/soc-fundamentals.md)
