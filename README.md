@@ -20,7 +20,7 @@ Devenir **Analyste SOC Niveau 1** (Blue Team).
 - [Rapport d'investigation Splunk](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_splunk.txt)
 ### 🎯 Portfolio & Rapports
 - [Rapport de compétences](rapport-competences.md)
-- [Notes SOC Fundamental letsdefend/soc-fundamentals.md)
+- • [Notes SOC Fundamentals](letsdefend/soc-fundamentals.md)
 - [Rapport d'investigation PHP2Shell](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_php2shell.txt)
 - [Rapport d'analyse de trafic réseau](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_reseau.txt)
 
