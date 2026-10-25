@@ -1,4 +1,4 @@
-# 👋 Salut, je suis KAI-ARLA
+II# 👋 Salut, je suis KAI-ARLA
 
 ## 🎯 Objectif
 Devenir **Analyste SOC Niveau 1** (Blue Team).
@@ -21,6 +21,7 @@ Devenir **Analyste SOC Niveau 1** (Blue Team).
 ### 🎯 Portfolio & Rapports
 - [Rapport de compétences](rapport-competences.md)
 - [Notes SOC Fundamentals](letsdefend/soc-fundamentals.md)
+- - [Rapport d'investigation PHP2Shell](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_php2shell.txt)
 
 ### 🛠️ Scripts d'analyse SOC
 - [Dépôt des scripts](https://github.com/gonmogademande-debug/soc-scripts)
