@@ -17,8 +17,6 @@ Devenir **Analyste SOC Niveau 1** (Blue Team).
 - OSINT, Threat Intelligence
 
 ## 📁 Projets
-
-### 🎯 Portfolio & Rapport
 ### 🎯 Portfolio & Rapports
 - [Rapport de compétences](rapport-competences.md)
 - [Notes SOC Fundamentals](letsdefend/soc-fundamentals.md)
