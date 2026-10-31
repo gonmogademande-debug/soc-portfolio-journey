@@ -1,54 +1,27 @@
-# 👋 Salut, je suis KAI-ARLA
+# 🛡️ KAI-ARLA - Futur Analyste SOC Niveau 1 (Blue Team)
 
 ## 🎯 Objectif
-Devenir **Analyste SOC Niveau 1** (Blue Team).
+Passionné par la cybersécurité défensive, je me forme activement via des labs pratiques (TryHackMe, LetsDefend). Mon objectif : intégrer une équipe SOC pour détecter et répondre aux incidents.
 
-## 📚 Formation autodidacte
-- **LetsDefend** : SOC Fundamentals, Phishing, SQLi, XSS, Command Injection (terminé)
-- **TryHackMe** : Cyber Security 101 (en cours)
-- **Splunk** : Analyse de logs avec grep/awk (simulation)
-- **Termux / Debian** : Environnement Linux d'apprentissage
+## 🛠️ Compétences Techniques
+- **Réseau & OS :** Linux (Debian/Termux), TCP/IP, Wireshark
+- **Sécurité :** Analyse de logs (Splunk, grep/awk), Détection d'attaques (SQLi, XSS, IDOR, Command Injection, SSRF)
+- **Scripting :** Bash, Python, PHP (compréhension des failles)
+- **Outils :** Git, GitHub, Nmap, Netcat
 
-## 🛠️ Compétences
-- Analyse de logs (Linux, Web, SSH)
-- Détection d'attaques (SQLi, XSS, Command Injection, LFI)
-- Scripting Bash pour l'automatisation
-- Git / GitHub / SSH
-- OSINT, Threat Intelligence
+## 📂 Mes Projets & Rapports
+*   [Rapport d'investigation : Injection de commande (PHP)](rapport_php2shell.txt)
+*   [Rapport d'investigation : IDOR & File Upload (RCE)](rapport_idor_upload.txt)
+*   [Rapport d'investigation : SSRF](rapport_ssrf.txt)
+*   [Rapport d'investigation : LFI & Command Injection](rapport_lfi_injection.txt)
+*   [Rapport d'analyse de trafic réseau](rapport_reseau.txt)
+*   [Script de Threat Hunting (IOC)](threat_hunt.sh)
 
-## 📁 Projets
-### 🎯 Portfolio & Rapports
-- [Rapport de compétences](rapport-competences.md)
-- [Notes SOC Fundamentals](letsdefend/soc-fundamentals.md)
-- [Rapport d'investigation Splunk](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_splunk.txt)
-- [Rapport d'investigation PHP2Shell](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_php2shell.txt)
-- [Rapport d'analyse de trafic réseau](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_reseau.txt)
-- [Rapport d'investigation failles web (XSS, SQLi)](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_failles_web.txt)
-- [Rapport d'investigation LFI & Command Injection](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_lfi_injection.txt)
-- [Rapport d'investigation IDOR & File Upload (RCE)](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_idor_upload.txt)
-- [Rapport d'investigation SSRF](https://github.com/gonmogademande-debug/soc-scripts/blob/main/rapport_ssrf.txt)
-- [Script de Threat Hunting (IOC)](https://github.com/gonmogademande-debug/soc-scripts/blob/main/threat_hunt.sh)
-### 🛠️ Scripts d'analyse SOC
-- [Dépôt des scripts](https://github.com/gonmogademande-debug/soc-scripts)
-  - `analyse.sh` : Analyse générale de logs
-  - `analyse_brute.sh` : Détection de brute force SSH
-  - `analyse_web.sh` : Analyse de logs web
-  - `detect_attacks.sh` : Détection multi-attaques
-  - `detect_complex.sh` : Détection avancée (SQLi, XSS, command injection, scans)
-
-### 🔬 Labs & Environnements
-- [Mon premier projet Git](https://github.com/gonmogademande-debug/mon-premier-projet)
-- Environnement Debian sur Termux (Terminal Linux mobile)
-- Serveurs PHP vulnérables (XSS, SQLi, LFI, Command Injection)
-
-## 🏅 Badges & Progression
-- LetsDefend : **SOC Fundamentals** ✅
-- TryHackMe : **Offensive Security Intro** ✅, **Defensive Security Intro** ✅
-- Série TryHackMe : **3 jours** 🔥
+## 🏅 Formations & Badges
+- **LetsDefend :** SOC Fundamentals ✅
+- **TryHackMe :** Offensive Security Intro ✅, Defensive Security Intro ✅
+- **TryHackMe :** Série 3 jours 🔥
 
 ## 📫 Me contacter
-- **Email** : gonmogademande@gmail.com
-- **GitHub** : [gonmogademande-debug](https://github.com/gonmogademande-debug)
-
----
-*Dernière mise à jour : Octobre 2026*
+- **Email :** gonmogademande@gmail.com
+- **GitHub :** [Mon Profil](https://github.com/gonmogade)
