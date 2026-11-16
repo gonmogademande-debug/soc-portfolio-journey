@@ -17,6 +17,7 @@ Passionné par la cybersécurité défensive, je me forme activement via des lab
 * [Rapport d'investigation : LFI & Command Injection](rapport_lfi_injection.md)
 * [Rapport d'analyse de trafic réseau](rapport_reseau.md)
 * [Script de Threat Hunting (IOC)](threat_hunt.sh)
+* [Script d'analyse de logs SOC (Bash)](detect_attacks.sh)
 ## 🏅 Formations & Badges
 - **LetsDefend :** SOC Fundamentals ✅
 - **TryHackMe :** Offensive Security Intro ✅, Defensive Security Intro ✅
