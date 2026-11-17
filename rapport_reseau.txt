@@ -1,0 +1,32 @@
+RAPPORT D'INVESTIGATION SOC : Analyse de trafic réseau
+
+1. RÉSUMÉ DE L'INCIDENT
+Dans le cadre de la surveillance du réseau local, une capture de paquets a été réalisée afin de détecter d'éventuelles activités malveillantes ou des fuites de données. L'analyse a mis en évidence des requêtes non chiffrées et une tentative de reconnaissance.
+
+2. OUTILS UTILISÉS
+- tcpdump (capture en ligne de commande sur Termux)
+- Wireshark (analyse visuelle du fichier .pcap)
+- netstat / ss (vérification des connexions actives)
+
+3. CONSTATATIONS (FINDINGS)
+
+A. Scan de ports (Reconnaissance)
+- Observation : Détection d'une rafale de paquets SYN envoyés vers des ports fermés sur l'adresse 127.0.0.1 (ports 8000 à 8100).
+- Outil suspecté : Nmap.
+- Impact : Un attaquant cherche à cartographier les services actifs pour trouver un point d'entrée.
+
+B. Trafic HTTP en clair
+- Observation : Capture d'une requête POST vers /login.php contenant des identifiants (utilisateur et mot de passe) en texte brut.
+- Impact : Critique. Si un attaquant est positionné sur le réseau (Man-in-the-Middle), il peut intercepter ces identifiants facilement.
+
+C. Connexion sortante suspecte (Simulation)
+- Observation : Détection d'une connexion établie depuis le serveur web vers une adresse IP externe sur le port 4444 (port typique des reverse shells).
+- Impact : Indique une possible compromission du serveur et une prise de contrôle à distance.
+
+4. REMÉDIATION
+- Chiffrer l'intégralité du trafic avec HTTPS (certificats SSL/TLS).
+- Mettre en place un pare-feu (iptables/ufw) pour bloquer les ports non nécessaires.
+- Déployer un IDS/IPS (comme Suricata ou Snort) pour alerter en temps réel sur les scans de ports et les connexions suspectes.
+
+5. CONCLUSION
+L'analyse de trafic est cruciale pour un analyste SOC. Elle permet de passer d'une alerte théorique à une preuve concrète d'activité sur le réseau.
