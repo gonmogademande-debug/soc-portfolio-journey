@@ -18,7 +18,7 @@ Passionné par la cybersécurité défensive, je me forme activement via des lab
 * [Rapport d'analyse de trafic réseau](rapport_reseau.md)
 * [Script de Threat Hunting (IOC)](threat_hunt.sh)
 * [Script d'analyse de logs SOC (Bash)](detect_attacks.sh)
-* * [Cheat Sheet : Requêtes Splunk SOC](splunk_queries_soc.md)
+* [Cheat Sheet : Requêtes Splunk SOC](splunk_queries_soc.md)
 * [Playbook de Réponse à Incident (Phishing)](playbook_phishing.md)
 ## 🏅 Formations & Badges
 - **LetsDefend :** SOC Fundamentals ✅
