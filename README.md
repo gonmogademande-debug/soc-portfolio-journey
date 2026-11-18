@@ -11,6 +11,8 @@ Passionné par la cybersécurité défensive, je me forme activement via des lab
 
 ## 📂 Mes Projets & Rapports
 
+## 📂 Mes Projets & Rapports
+
 * [Rapport d'investigation : Injection de commande (PHP)](rapport_php2shell.md)
 * [Rapport d'investigation : IDOR & File Upload (RCE)](rapport_idor_upload.md)
 * [Rapport d'investigation : SSRF](rapport_ssrf.md)
@@ -20,6 +22,9 @@ Passionné par la cybersécurité défensive, je me forme activement via des lab
 * [Script d'analyse de logs SOC (Bash)](detect_attacks.sh)
 * [Cheat Sheet : Requêtes Splunk SOC](splunk_queries_soc.md)
 * [Playbook de Réponse à Incident (Phishing)](playbook_phishing.md)
+* [Rapport d'incident : Brute Force & PowerShell](rapport_bruteforce_powershell.md)
+* [Rapport d'incident : Tentative de Phishing (Typosquatting)](rapport_phishing.md)
+* [Rapport d'incident : Attaque Ransomware](rapport_ransomware.md)
 ## 🏅 Formations & Badges
 - **LetsDefend :** SOC Fundamentals ✅
 - **TryHackMe :** Offensive Security Intro ✅, Defensive Security Intro ✅
