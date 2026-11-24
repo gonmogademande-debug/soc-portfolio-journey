@@ -1,18 +1,3 @@
-# 🛡️ KAI-ARLA - Futur Analyste SOC Niveau 1 (Blue Team)
-
-## 🎯 Objectif
-Passionné par la cybersécurité défensive, je me forme activement via des labs pratiques (TryHackMe, LetsDefend). Mon objectif :intégrer une équipe SOC pour détecter et répondre aux incidents.
-
-## 🛠️ Compétences Techniques
-- **Réseau & OS :** Linux (Debian/Termux), TCP/IP, Wireshark
-- **Sécurité :** Analyse de logs (Splunk, grep/awk), Détection d'attaques (SQLi, XSS, IDOR, Command Injection, SSRF)
-- **Scripting :** Bash, Python, PHP (compréhension des failles)
-- **Outils :** Git, GitHub, Nmap, Netcat
-
-## 📂 Mes Projets & Rapports
-
-## 📂 Mes Projets & Rapports
-
 ## 📂 Mes Projets & Rapports
 
 ### 🛡️ Sécurité Défensive (Opérations SOC & Analyse)
@@ -42,12 +27,6 @@ Passionné par la cybersécurité défensive, je me forme activement via des lab
 ---
 
 ## 📫 Me contacter
-
-## 🏅 Formations & Badges
-- **LetsDefend :** SOC Fundamentals ✅
-- **TryHackMe :** Offensive Security Intro ✅, Defensive Security Intro ✅
-- **TryHackMe :** Série 3 jours 🔥
-
 
 *   **Email :** [gonmogademande@gmail.com](mailto:gonmogademande@gmail.com)
 *   **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/khalam-osee-82a46544b)
