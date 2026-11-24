@@ -22,11 +22,9 @@
 
 *   **LetsDefend :** SOC Fundamentals ✅
 *   **TryHackMe :** Offensive Security Intro ✅, Defensive Security Intro ✅
-*   **TryHackMe :** Série 3 jours 🔥 *(Ajoute le lien de ton profil TryHackMe ici si tu en as un)*
+*   **TryHackMe :** Série 3 jours 🔥 *
 
----
-
-## 📫 Me contacter
+  ## 📫 Me contacter
 
 *   **Email :** [gonmogademande@gmail.com](mailto:gonmogademande@gmail.com)
 *   **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/khalam-osee-82a46544b)
